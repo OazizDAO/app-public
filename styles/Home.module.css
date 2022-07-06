@@ -1,0 +1,72 @@
+.container {
+  height: 100vh;
+}
+
+.header {
+  padding: 15px;
+  overflow: hidden;
+}
+
+.main {
+  min-height: 100%;  
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  padding: 14px 25px;
+  border-radius: 9em;
+  border: 2px white solid;
+  background: none;
+  color: white;
+  cursor: pointer;
+}
+.button:disabled {
+  border-color: rgba(255,255,255,0.4);
+  color: rgba(255,255,255,0.4);
+
+}
+
+.form {
+  text-align: center;
+}
+
+a.msg {
+  color: var(--main-color);
+  font-size: 16px;
+}
+
+.subDAO {
+  color: var(--main-color);
+  cursor: none;
+  position: absolute;
+  animation: subDAOAnim;
+  animation-duration: 0.5s;
+  animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+@keyframes subDAOAnim {
+  from { transform: translateY(0); opacity: 1; }
+  to { transform: translateY(-150px) scale(250%); opacity: 0; }
+}
+
+
+.footer {
+  position: absolute;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+

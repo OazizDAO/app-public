@@ -1,0 +1,35 @@
+.background {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(20,20,20,0.1);
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.spinner {
+    font-family: 'PT Root UI';
+    font-weight: bold;
+    color: var(--main-color);
+    transform: scaleX(1);
+    animation-name: oazizSpinner; 
+    animation-duration: 0.3s;
+    animation-timing-function:cubic-bezier(0.445, 0.05, 0.55, 0.95);
+    
+    animation-direction: alternate-reverse;
+    animation-iteration-count: infinite;
+    font-size: 2rem;  
+    text-shadow: 0 0 12px var(--main-color);
+    display: inline-block;  
+}
+.mini {
+    margin-left: 10px;
+    font-size: 1rem;
+}
+@keyframes oazizSpinner {
+    from { transform: scaleX(1); text-shadow: 0 0 2px var(--main-color); }
+    to { transform: scaleX(0.01); text-shadow: 0 0 22px var(--sec-color); opacity: 0.2; color: var(--sec-color) }
+}

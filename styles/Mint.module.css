@@ -1,0 +1,139 @@
+.signin {
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+
+.signin p {
+    font-family: 'PT Root UI';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 88px;
+    line-height: 72px;
+    color: #C7CACE;
+}
+
+.message {
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+
+.message p {
+    font-family: 'PT Root UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #868B94;
+    text-align: center;
+}
+
+.container {
+    height: 100vh;
+    background-color: black;
+    display: -webkit-flex;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+.rowtent {
+    display: flex;
+    width: 100%;
+    vertical-align: center;
+}
+
+.rowtenti {
+    margin: auto;
+    display: flex;
+    width: 100%;
+    vertical-align: center;
+    position: absolute;
+}
+
+.Col {
+    display: table-cell;
+    text-align: center;
+    vertical-align: center;
+}
+
+.imgBtn {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 211px;
+    height: 56px;
+}
+
+.btn_walletAddress {
+    font-family: 'PT Root UI';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #D4D6DB;
+    border-radius: 2rem;
+    position: fixed;
+    right: 20px;
+    top: 10px;
+}
+
+.head {
+    font-family: 'PT Root UI';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 74px;
+    color: #D4D6DB;
+}
+
+.content {
+    font-family: 'PT Root UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #D4D6DB;
+}
+
+.title {
+    font-family: 'PT Root UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #868B94;
+    text-decoration: none;
+}
+
+.desc {
+    font-family: 'PT Root UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #D4D6DB;
+    max-width: 100%;
+    text-decoration: none;
+}
+
+.img {
+    height: 100%;
+    width: 100%;
+}
+
+.event {
+    margin-top: 5rem;
+    width: 100%;
+    background-color: black;
+}
+
+.carousel {
+    padding: 1rem;
+}

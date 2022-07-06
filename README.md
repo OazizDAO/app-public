@@ -1,6 +1,6 @@
 # OAZIZ-DAO
 
-## MAJOR DEVELOPMENT STATUS:
+## DEVELOPMENT PROGRESS:
 
 [07/06/2022] Minting and distribution contract creation
 

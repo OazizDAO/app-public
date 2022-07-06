@@ -1,13 +1,19 @@
 # OAZIZ-DAO
 
-# MAJOR DEVELOPMENT STATUS:
+## MAJOR DEVELOPMENT STATUS:
 
 [07/06/2022] Minting and distribution contract creation
+
 [07/02/2022] Event creation and verification
+
 [06/18/2022] Security bot for feeless transaction integration
+
 [06/16/2022] Feeless transaction implementation
+
 [06/15/2022] Identity creation integration
+
 [06/03/2022] Wallets integration
+
 [05/31/2022] Claiming BlockShow NFT ticket claiming done 
 
 

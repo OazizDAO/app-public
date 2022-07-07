@@ -17,7 +17,7 @@
 [05/31/2022] Claiming BlockShow NFT ticket claiming done 
 
 
-## Oaziz DAO — Web 3 tools making community-owned events a reality
+## Oaziz DAO — House of web3 toold for events
 
 
 1. **Claiming tickets** - Pre-minted and pre-distributed NFT tickets for the BlockShow festival. Tickets and their data are stored on IPFS storage. 

@@ -41,7 +41,7 @@ Upon creating the citizenship on our platform, you will also be able to start cr
 
 *c) NFT Memory minting*
 
-Once your event is verified, you will be available to mint NFTs dedicated to the event you created. You will have to add some descriptions for your NFT or a collection, upload one or several NFTs, and make sure to check everything thoroughly - once you click on the ‘Mint NFT(s)’ button, you can't undo the process. As mentioned above, it's free of charge. Data is going to be stored on IPFS.z, as well as on Polygon mainnet in a transaction form.
+Once your event is verified, you will be available to mint NFTs dedicated to the event you created. You will have to add some descriptions for your NFT or a collection, upload one or several NFTs, and make sure to check everything thoroughly - once you click on the ‘Mint NFT(s)’ button, you can't undo the process. As mentioned above, it's free of charge. Data is going to be stored on IPFS, as well as on Polygon mainnet in a transaction form.
 
 
 *d) NFT Memory distribution*

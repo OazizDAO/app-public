@@ -25,29 +25,26 @@ Transaction data and the smart contract itself is available on Polygon mainnet. 
 
 2. **NFT Memories**
 
-NFT memory is acting as a digital memory of any event a user participated in (attended an online/offline event, watched a youtube video or a stream etc.)
-At Oaziz, NFT Memory is not just a proof of attendance, it is also a remarkable moment people receive and own after events end. Our goal is to create a smooth 
-and easy-to-use tools with smooth UXUI so that event organizers can create NFT memories and distribute them easily, without knowing what blockchain is and how to 
-use it.
+NFT memory is acting as a digital memory of any event user participated in (this includes either an offline or online participation, or just watching a youtube video, livestream, etc.) At Oaziz, NFT Memory is not just a proof of attendance, it is also an embodiment of a remarkable moment people receive and own after the event is over. Our goal is to create smooth and easy-to-use tools with upscale UXUI, so that event organizers can create NFT memories and distribute them easily, without even knowing what Blockchain is and how to use it.
+In order to start using our product, you need to install a Metamask wallet, walletConnect (for wallets that can be scanned to connect), or Coinbase wallet.
+All transactions for all users will be zero-fee, in other words, FREE.
 
-In order to start using our product, you will need to have a Metamask wallet, walletConnect (for wallets that support scanning in order to connect), or Coinbase wallet.
-
-All transactions for all users will be feeless in other words FREE.
 
 *a) Creation of identity/citizenship*
 
-Citizenship represents a non-transferable token made using a smart contract on Polygon mainnet network. Each individual or organization has its own citizenship consisting of multiple data such as a public address, username, social media account links, avatar, etc. You as a citizen always have the ability to update your profile data. Update of your profile data doesn't mean that you can change your public address as it is a store of your complete citizenship itself. Data that you are planning to input are available inside created identity aka transaction.
+Citizenship represents a non-transferable token built on a Polygon mainnet smart contract. Each individual or organization has its own citizenship that contains multiple pieces of data, such as public address, username & userpic, social media links, etc. As a citizen, you always have the ability to update your profile data. This doesn't mean you can change your public address, though - after all, it is a store of your citizenship itself. All the info you decide to add is available inside the created identity aka transaction.
+
 
 *b) Event creation*
 
-You will be available to start creating an event if you have created your citizenship on our platform. As it's written above NFT memory is not just proof of attendance, it is also a 
-remarkable moment people receive and own after events end. Event creation consists of inputting all necessary data to describe your event with visual components. Input data are going to be stored on IPFS. After input of all necessary data citizen will need to go through a verification process in order to create an event for the first time. The verification process is necessary in order to eleminate larger groups of scammers and malicious users that are going to show up at some moment. Storing data on IPFS by us is going to be done only for the first time when you create an event, every second time data are going to be stored automatically by you create an event.
+Upon creating the citizenship on our platform, you will also be able to start creating events. As it mentioned above, NFT memory is not just a proof of attendance - it is also a manifestation of a remarkable moment people receive and own after the event is over. Event creation starts with logging all the necessary data in to describe your event with visual components. Logged data is going to be stored on IPFS. After adding all the necessary information, the citizen will have to go through the verification process before creating their first event. The verification helps us to eliminate larger groups of scammers and malicious users that are going to show up eventually. We will store users’ data on IPFS just for once, at the very first time the user creates an event. Further on, the data is going to be stored automatically each time a user creates an event.
 
 *c) NFT Memory minting*
 
-If your event gets verified you will be available to mint your NFTs addressed to an event you created. You will be asked to input descriptive data about your NFT or NFT collection, 
-upload NFT(s) and make sure once you click on the mint NFT(s) button that you can't undo that process. As mentioned above, it's free of charge. Data are going to be stored on Polygon mainnet in form of transactions as well on IPFS.
+Once your event is verified, you will be available to mint NFTs dedicated to the event you created. You will have to add some descriptions for your NFT or a collection, upload one or several NFTs, and make sure to check everything thoroughly - once you click on the ‘Mint NFT(s)’ button, you can't undo the process. As mentioned above, it's free of charge. Data is going to be stored on IPFS.z, as well as on Polygon mainnet in a transaction form.
+
 
 *d) NFT Memory distribution*
 
-Once, you successfully minted your NFT(s) you will have the ability to distribute your NFT(s) to everyone you want. You can time limit distribution time and choose how many NFT(s) you are planning to whitelist to known receptions and how many you are going to distribute by a link that will be received by the method first come first served. For whitelisted users, you need to input their receiving public addresses the same number of times as the number of NFT(s) you are willing to distribute them. For distribution using a link, you just need to input the number of NFT(s) you are willing to distribute and generate a link you can share anywhere your audience is placed. If you made some mistake during the process you will be able to change the distribution time limit or change the ratio between whitelisted users and those who will receive it using links.
+Once you successfully minted your NFT(s), you will be able to distribute those to everyone you want. You may set a limited distribution time and choose how many NFT(s) you are planning to distribute via whitelist (to a number of pre-selected users) versus how many will be distributed by the ‘first come, first served’ method. For whitelisted users, you need to add their public addresses the same number of times as the number of NFTs you are willing to distribute. For distribution using via public link, you just need to add the number of NFTs you are willing to distribute and generate a link you can share with your audience. If you’ve done something wrong along the process, you will be able to change the distribution time limit, or the whitelist/public ratio.
+

@@ -30,9 +30,9 @@ In order to start using our product, you need to install a Metamask wallet, wall
 All transactions for all users will be zero-fee, in other words, FREE.
 
 
-*a) Creation of identity/citizenship*
+*a) Creation of decentralized identity: DID*
 
-Citizenship represents a non-transferable token built on a Polygon mainnet smart contract. Each individual or organization has its own citizenship that contains multiple pieces of data, such as public address, username & userpic, social media links, etc. As a citizen, you always have the ability to update your profile data. This doesn't mean you can change your public address, though - after all, it is a store of your citizenship itself. All the info you decide to add is available inside the created identity aka transaction.
+DID represents a non-transferable token built on a Polygon mainnet smart contract. Each individual or organization has its own DID that contains multiple pieces of data, such as public address, username & userpic, social media links, etc. As a user, you always have the ability to update your profile data. This doesn't mean you can change your public address, though - after all, it is a store of your DID itself. All the info you decide to add is available inside the created identity aka transaction.
 
 
 *b) Event creation*
